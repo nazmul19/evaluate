@@ -1,7 +1,7 @@
 evaluate
 ========
 
-Demo application for Marks Evaluation.
+POC for pluggable approach using spring framework, i have taken Marks Evaluation example for POC.
 
 This is basic demonstration of plugin extension using spring framework.
 

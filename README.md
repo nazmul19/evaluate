@@ -1,5 +1,5 @@
-evaluate
-========
+Spring pluggable Approach
+==========================
 
 POC for pluggable approach using spring framework, i have taken Marks Evaluation example for POC.
 
